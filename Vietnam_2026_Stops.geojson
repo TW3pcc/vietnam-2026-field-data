@@ -1,0 +1,1574 @@
+{
+  "type": "FeatureCollection",
+  "name": "Vietnam_2026_Stops",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.853287225169,
+          21.0343250429948
+        ]
+      },
+      "properties": {
+        "OBJECTID": "3",
+        "GlobalID": "7669ec36-da8d-4eef-9155-6ae2377f86e6",
+        "Place": "La Siesta Classic Ma May",
+        "Type": "Logistics",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-18",
+        "Reflection": "Ist stop. Hotel in old Quarter. Really jetlagged. Really nice staff.",
+        "Environment_Obs": "Hanoi is as Hot as a steam room upon arrival!",
+        "Photo_Reference": "Picture of hotel coming soon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.833977832136,
+          21.0373787031686
+        ]
+      },
+      "properties": {
+        "OBJECTID": "4",
+        "GlobalID": "d1b3f717-7ca5-49b7-95c5-c6f4f705e252",
+        "Place": "Ho Chi Minh mausoleum",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-21",
+        "Reflection": "Mausoleum of Ho Chi Minh. House on stilts, cars, tools; depicting stages in the life.",
+        "Environment_Obs": "Hot as blazes by 10 am. Lush foliage everwhere in Old Quarter, like French Quarter in New Orleans as all get out",
+        "Photo_Reference": "Pictures of the mausoleum, the museum, house on stilts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.835886707199,
+          21.0292373971328
+        ]
+      },
+      "properties": {
+        "OBJECTID": "5",
+        "GlobalID": "243cee50-629d-4c29-8028-482c3df91d82",
+        "Place": "Temple of Literature",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-21",
+        "Reflection": "Beautiful trees, giant stone tablets for ancient instruction of Vietnamese scholars, impressive entrance",
+        "Environment_Obs": "Lit incense for Jason",
+        "Photo_Reference": "Pictures inside T of L"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.846652937726,
+          21.0255837638547
+        ]
+      },
+      "properties": {
+        "OBJECTID": "6",
+        "GlobalID": "e70bba0a-43c9-47f6-b57d-a0dd1d89cdd8",
+        "Place": "Hoa Lo Prison: The Furnace",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-22",
+        "Reflection": "The Hannaway Hilton or Heartbreak Hotel.",
+        "Environment_Obs": "Dank, tight quarters, no air circulation. Strong impression of cruelty suffered by Vietnamese at hands of Chinese, French before meeting Americans.",
+        "Photo_Reference": "Pics of Hanoi Hilton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83701729807,
+          21.0478189724608
+        ]
+      },
+      "properties": {
+        "OBJECTID": "7",
+        "GlobalID": "f5ef6fe6-fba8-4597-b99e-5eae399e51b1",
+        "Place": "Tran Quoc Pagoda",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-18",
+        "Reflection": "Crowded and sweltering, but shaded by trees with a nice breeze",
+        "Environment_Obs": "On West Lake; popular city destination for all",
+        "Photo_Reference": "Pics of the Buddhist temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.836168319902,
+          21.0430574555485
+        ]
+      },
+      "properties": {
+        "OBJECTID": "8",
+        "GlobalID": "b2a7cb07-b034-4818-8a11-ffbcd0c83f38",
+        "Place": "Dan Quan Taoist temple",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-18",
+        "Reflection": "Beautiful Taoist temple, tea service, shedding some grief",
+        "Environment_Obs": "Hot as blazes even at 10 am, but better in shade",
+        "Photo_Reference": "Pics of temple grounds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.840587904593,
+          21.0361679599403
+        ]
+      },
+      "properties": {
+        "OBJECTID": "9",
+        "GlobalID": "be65b677-f8a7-45bf-be06-e466d2379afe",
+        "Place": "Old citadel",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-18",
+        "Reflection": "The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi.",
+        "Environment_Obs": "Except for the North Gate and the Flag Tower, what remains of Hanoi citadel to this day is only an archaeological site and restored. Systematic restoration and excavation began in the 21st century",
+        "Photo_Reference": "General pics of the area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.905978735508,
+          20.2312534208695
+        ]
+      },
+      "properties": {
+        "OBJECTID": "10",
+        "GlobalID": "72b51d56-b7fc-4362-be48-2691c84a3fc6",
+        "Place": "Den Voi",
+        "Type": "Culture",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-24",
+        "Reflection": "Lovely, neglected temple at end of the road out in the country",
+        "Environment_Obs": "Quiet, best part of Tam Coc is the countryside",
+        "Photo_Reference": "Pics of temple; area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.931160549403,
+          20.2165344999212
+        ]
+      },
+      "properties": {
+        "OBJECTID": "11",
+        "GlobalID": "0d7fcea6-1e90-4ef2-80e9-d1bdefd3a3df",
+        "Place": "Tam Coc Serenity Bungalow",
+        "Type": "Logistics",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-23",
+        "Reflection": "Decent place with neat little poolside bungalow. Cool design, but cheap materials. Depressed concierge, mediocre breakfast.",
+        "Environment_Obs": "A little noisy, fringe of Tam Coc, but Spring Break feel for Tourist Week",
+        "Photo_Reference": "Room pics, town pic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.890670579786,
+          20.2217229953007
+        ]
+      },
+      "properties": {
+        "OBJECTID": "12",
+        "GlobalID": "c770acd0-a6cc-41fe-9c24-d9a5616ce7e8",
+        "Place": "Thung Nham Ecozone",
+        "Type": "Ecology",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-25",
+        "Reflection": "Beautiful protected area about 15 K out of town.",
+        "Environment_Obs": "Avian protection zone for storks and egrets; beautiful flowers",
+        "Photo_Reference": "Pics of Ecozone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.919279592253,
+          20.248768630746
+        ]
+      },
+      "properties": {
+        "OBJECTID": "13",
+        "GlobalID": "61513792-eb04-485a-9c3c-afa3f9604b78",
+        "Place": "Trang An Eco complex",
+        "Type": "Ecology",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-25",
+        "Reflection": "Hot as blazes, but oh so beautiful. Tons of people.",
+        "Environment_Obs": "So hot, so crowded, like a conveyer belt",
+        "Photo_Reference": "Cave pics, village models, water pagoda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.851317773114,
+          21.0392765321267
+        ]
+      },
+      "properties": {
+        "OBJECTID": "14",
+        "GlobalID": "8ae986e8-6ae8-4129-bde3-10f4ba35ee19",
+        "Place": "Sai Viet Bus: 116 Tran Nhat Duc",
+        "Type": "Logistics",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-18",
+        "Reflection": "Transfer to Sapa, street hot and slice in the morning with barbers, grocers, shopkeepers begrudgingly opening @ 90 degrees @ 8am",
+        "Environment_Obs": "",
+        "Photo_Reference": "Na"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846852901689,
+          22.326993578691
+        ]
+      },
+      "properties": {
+        "OBJECTID": "15",
+        "GlobalID": "b41a9ac6-cc0b-4b9c-8297-6f4962f6f9eb",
+        "Place": "Pao’s Sapa Leisure Hotel",
+        "Type": "Reflective",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-29",
+        "Reflection": "Normally simply logistical, but the view is so nice here that it would make one reflective",
+        "Environment_Obs": "Overlooking Huang Ma Valley",
+        "Photo_Reference": "Pics of Room, out window"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845762085524,
+          22.3290955363774
+        ]
+      },
+      "properties": {
+        "OBJECTID": "16",
+        "GlobalID": "67e9c632-3bfb-4207-9adb-e93d21c22951",
+        "Place": "King Pizza",
+        "Type": "Culture",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-28",
+        "Reflection": "What a pizza! Right up road from hotel. Great before hike.",
+        "Environment_Obs": "No need to head all the way into Sapa town with food this good nearby!",
+        "Photo_Reference": "Pizza and Storefront pics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845753804033,
+          22.3291208107821
+        ]
+      },
+      "properties": {
+        "OBJECTID": "17",
+        "GlobalID": "87f88ff8-f3ec-448e-9484-810f33fa9030",
+        "Place": "Mountain Bar",
+        "Type": "Culture",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-28",
+        "Reflection": "Great Banh My, tasty buffalo snacks, friendly service!",
+        "Environment_Obs": "Nice view of valley; alley up the road for short cut back to hotel",
+        "Photo_Reference": "Pic of bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.300711868824,
+          17.6030982531873
+        ]
+      },
+      "properties": {
+        "OBJECTID": "18",
+        "GlobalID": "d30352db-d8e3-4e0a-9e3c-171449feffde",
+        "Place": "Moc Nam Outfitter offices",
+        "Type": "Logistics",
+        "Region": "Phong Nha",
+        "StoryMap_Chapter": 4,
+        "Date": "2026-06-01",
+        "Reflection": "Pick up for daily adventures",
+        "Environment_Obs": "Small town along the Son River",
+        "Photo_Reference": "Tour Guides to E Cave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.260837251465,
+          17.532524010397
+        ]
+      },
+      "properties": {
+        "OBJECTID": "19",
+        "GlobalID": "b46e39d5-e14f-48ce-8d1a-cafdf76b9a19",
+        "Place": "Abandoned Valley Trailhead",
+        "Type": "Ecology",
+        "Region": "Phong Nha",
+        "StoryMap_Chapter": 4,
+        "Date": "2026-06-01",
+        "Reflection": "Trailhead for E Cave",
+        "Environment_Obs": "Hot as blazes and lush with greren; heavy air",
+        "Photo_Reference": "Map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.269176574556,
+          17.5458240370905
+        ]
+      },
+      "properties": {
+        "OBJECTID": "20",
+        "GlobalID": "58c84c3b-8669-4cbf-9143-56752e39a34f",
+        "Place": "E Cave",
+        "Type": "Ecology",
+        "Region": "Phong Nha",
+        "StoryMap_Chapter": 4,
+        "Date": "2026-06-01",
+        "Reflection": "Fun paddle, sensory deprivation in dark cave, pics from water",
+        "Environment_Obs": "Limestone karst cave with stream running through it",
+        "Photo_Reference": "E Cave entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.385090917211,
+          17.6242385079738
+        ]
+      },
+      "properties": {
+        "OBJECTID": "21",
+        "GlobalID": "ccbd34a0-6eac-4dc8-af23-a9059e59374f",
+        "Place": "Phong Nha Farmstay",
+        "Type": "Culture",
+        "Region": "Phong Nha",
+        "StoryMap_Chapter": 4,
+        "Date": "2026-05-31",
+        "Reflection": "Former tile factory; community farm adjacent",
+        "Environment_Obs": "Old farm, rice fields, community water buffaloes and ducks, birds galore",
+        "Photo_Reference": "Pics of room and surrounds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594816638559,
+          16.4671716007721
+        ]
+      },
+      "properties": {
+        "OBJECTID": "22",
+        "GlobalID": "c8826f5a-f924-40d0-8fa8-6f2f3fd302c3",
+        "Place": "Scarlett Boutique Hotel",
+        "Type": "Logistics",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-03",
+        "Reflection": "Cool little hotel 1 block away from Perfume River",
+        "Environment_Obs": "Cool little hotel with some character tucked in to a side alley of the main street",
+        "Photo_Reference": "Hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.544869494804,
+          16.4524258046229
+        ]
+      },
+      "properties": {
+        "OBJECTID": "23",
+        "GlobalID": "e3921c80-f749-4b2d-beac-157ee6247926",
+        "Place": "Thien Mu Pagoda",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "The Thiên Mụ Temple (meaning Temple of the Celestial Lady, Vietnamese: Chùa Thiên Mụ; also called Linh Mụ Temple) is a historic temple in the city of Huế in Vietnam. Its iconic seven-story Phước Duyên pagoda is regarded as the unofficial symbol of the city",
+        "Environment_Obs": "The temple sits on the Hà Khê hill, in the ward of Hương Long in Huế. It is around 5 kilometres (3.1 mi) from the Citadel of Huế constructed by the first emperor of the Nguyễn dynasty on the site of a pre-existing shrine and sits on the northern bank of the Perfume River.",
+        "Photo_Reference": "Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.558394139937,
+          16.4548570736548
+        ]
+      },
+      "properties": {
+        "OBJECTID": "24",
+        "GlobalID": "a525e66b-f6f7-4d70-a245-043516389c03",
+        "Place": "Perfume River",
+        "Type": "Ecology",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "The Perfume River (Vietnamese: Sông Hương or Hương Giang) is a river that crosses the city of Huế, in central Vietnam. In the autumn, flowers from orchards upriver from Huế fall into the water, giving the river a perfume-like aroma, hence the sobriquet",
+        "Environment_Obs": "Hot in the morning too. The Perfume River has two sources; both begin in the Dãy Trường Sơn mountain range and meet at Bằng Lãng Fork.",
+        "Photo_Reference": "River shots"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578997589375,
+          16.4678583992583
+        ]
+      },
+      "properties": {
+        "OBJECTID": "25",
+        "GlobalID": "2ae17e66-44c0-40a8-be2c-de31dbf32f34",
+        "Place": "Old Citadel",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "Citadel, imperial Palace, Forbidden City: The Imperial City or Imperial Palace (Vietnamese: Hoàng thành; chữ Hán: 皇城) also known as Đại Nội (大內), is a royal enclosure within the walled city (Vietnamese: Kinh thành; chữ Hán: 京城) of Huế, the former imperial capital of Vietnam during the Nguyễn dynasty. It contains the palaces that housed the imperial family, as well as shrines, gardens, and offices for mandarins.",
+        "Environment_Obs": "Constructed in 1804 under Emperor Gia Long as a new capital and later re-modelled and enlarged to its current scale in 1833, it mostly served as a ceremonial function and imperial residence during the French colonial period. After the end of the monarchy in 1945, it suffered heavy damage and neglect during the Indochina Wars through the 1980s. The Imperial City was designated as a UNESCO World Heritage Site in 1993 as part of the Complex of Huế Monuments and is undergoing restoration.",
+        "Photo_Reference": "a few pics of grounds, many more"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589834889217,
+          16.4051862455619
+        ]
+      },
+      "properties": {
+        "OBJECTID": "26",
+        "GlobalID": "6abae257-a83b-4df9-afc1-df062fb49ded",
+        "Place": "Khai Dinh",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "Tomb of Khải Định (Vietnamese: Lăng Khải Định, chữ Hán: 陵啓定), officially Ứng Mausoleum (Ứng lăng, chữ Hán: 應陵) is a tomb built for Khải Định, the twelfth Emperor of the Nguyễn dynasty of Vietnam. It features a blend of Vietnamese architecture with Western styles.",
+        "Environment_Obs": "located on Châu Chữ mountain near the former capital city of Huế. The tomb became a UNESCO World Heritage Site in 1993",
+        "Photo_Reference": "Khải Định's tomb contrasts from other Nguyễn dynasty tombs, not only in its much smaller size, but also with its more elaborate design, fusing Vietnamese and European styles including Baroque, Gothic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.132649502088,
+          16.188634866451
+        ]
+      },
+      "properties": {
+        "OBJECTID": "28",
+        "GlobalID": "dba8b8e6-a81a-43cd-8bbc-775609d6c238",
+        "Place": "Hai Van Pass lookout",
+        "Type": "Culture",
+        "Region": "Unclassified",
+        "StoryMap_Chapter": 0,
+        "Date": "2026-06-05",
+        "Reflection": "21-kilometre (13 mi) long mountain pass on National Route 1 in Vietnam. It traverses a spur of the larger Annamite Range that juts into the South China Sea on the border of Đà Nẵng and Huế, near Bạch Mã National Park. Its name refers to the mists that rise from the sea, reducing visibility. Historically, the pass was a physical division between the kingdoms of Champa and Đại Việt from 1306 until Vietnamese invasion in 1471.[1]",
+        "Environment_Obs": "Hải Vân Pass crosses over a spur of the Trường Sơn (Annamite Range) that emerges from the west and juts into the South China Sea, forming the Hải Vân Peninsula and the adjoining Son Tra Island. The pass, which once formed the boundary between the kingdoms of Đại Việt and Champa in 1306, also forms a boundary between the climates of northern and southern Vietnam,",
+        "Photo_Reference": "Panorama of the area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876311441039,
+          22.3098222226765
+        ]
+      },
+      "properties": {
+        "OBJECTID": "29",
+        "GlobalID": "29cd6de3-aae4-4294-b002-d9093c5e40d7",
+        "Place": "A Phu Local: Black H’mong Restaurant",
+        "Type": "Culture",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-29",
+        "Reflection": "Nice little lunch spot right in Lao Chai",
+        "Environment_Obs": "Light breeze, great view of H’uang Moa River, bunch of tourons",
+        "Photo_Reference": "Hua Hmong River view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.36681631703,
+          15.8966837435134
+        ]
+      },
+      "properties": {
+        "OBJECTID": "30",
+        "GlobalID": "3626ae22-2743-4076-a6ea-2d194fde63c6",
+        "Place": "Hoi An Neach Resort",
+        "Type": "Logistics",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-05",
+        "Reflection": "Giant hotel across street from Cua Dai Beach",
+        "Environment_Obs": "Nice room, little noisy with tile flooring, then upstairs neighbors",
+        "Photo_Reference": "Pics of room, lagoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.367417071665,
+          15.8972604816874
+        ]
+      },
+      "properties": {
+        "OBJECTID": "31",
+        "GlobalID": "efae18bf-bcb3-4858-b60a-6fc5acdbd88b",
+        "Place": "Cua Dai",
+        "Type": "Ecology",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-05-18",
+        "Reflection": "Beach out front of hotel. Great talk last day with Sunflower (Tyreesha) from GA.",
+        "Environment_Obs": "Littered with plastic bottles, but nice waters, heavy ongoing dredging",
+        "Photo_Reference": "Pics of beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.335326630228,
+          15.9177320153671
+        ]
+      },
+      "properties": {
+        "OBJECTID": "32",
+        "GlobalID": "7d9be610-a266-45d4-898c-bb286bc5a39c",
+        "Place": "An Bang Beach",
+        "Type": "Ecology",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-07",
+        "Reflection": "Tranquil, tree-lined beach featuring ke.white sand, palapas, lounge chairs & eateries. Pretty overdeveloped in 2026.",
+        "Environment_Obs": "Fairly busy with tourists on Sunday, charge for bike parking, beach chair, cafes all around.",
+        "Photo_Reference": "View back towards Da Nang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84861994309,
+          21.0360915230637
+        ]
+      },
+      "properties": {
+        "OBJECTID": "33",
+        "GlobalID": "bb190aee-24cc-4a0a-9b4b-be08db0d06e3",
+        "Place": "Banh Mi 25",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-20",
+        "Reflection": "1st dinner stop.",
+        "Environment_Obs": "Hot at night. Sweating profusely.",
+        "Photo_Reference": "Storefront photos via Google"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.851307874391,
+          21.0349385954818
+        ]
+      },
+      "properties": {
+        "OBJECTID": "34",
+        "GlobalID": "b3afbdd9-e9d0-4186-bf4f-1115d5234953",
+        "Place": "Bun Cha Qu Tre",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-21",
+        "Reflection": "Tasty intro to Hanoi delicacy. Rich pork broth. Cold Beer. Nice, small family place.",
+        "Environment_Obs": "Still hot 2nd night. Jet lag slowly improving.",
+        "Photo_Reference": "Storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.853313634189,
+          21.0308561303702
+        ]
+      },
+      "properties": {
+        "OBJECTID": "35",
+        "GlobalID": "c93ceacc-47b0-4709-ac33-cd98fed629be",
+        "Place": "Hoan Kiem Lake",
+        "Type": "Ecology",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-22",
+        "Reflection": "Peacefgul inner city lake filled with people walking, stretching, meditating, dancing, having coffee.",
+        "Environment_Obs": "Despite heat, plenty of people out early to get moving and greet the day. Also a big night spot!",
+        "Photo_Reference": "Pics of area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.847882517983,
+          21.0250648294376
+        ]
+      },
+      "properties": {
+        "OBJECTID": "36",
+        "GlobalID": "33936fe5-f8e5-4b45-b7fe-62f22a4216fa",
+        "Place": "Book Street",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-22",
+        "Reflection": "Cute little walkway dedicated to local bookstores, mostly kid lit",
+        "Environment_Obs": "",
+        "Photo_Reference": "Pics of the street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.851134878622,
+          21.0330398705244
+        ]
+      },
+      "properties": {
+        "OBJECTID": "37",
+        "GlobalID": "2d6d3ce5-1844-4708-b7e8-7239c8ad2ee4",
+        "Place": "Night Market",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-22",
+        "Reflection": "Birghtly lit night market with clothes, shoes, bags, candies, toys, etc.",
+        "Environment_Obs": "Lively atmosphere with food and drink available at cross streets.",
+        "Photo_Reference": "Area pics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.850732805876,
+          21.0340551932884
+        ]
+      },
+      "properties": {
+        "OBJECTID": "38",
+        "GlobalID": "bf30ffdf-be62-4fb2-89f9-46a2560d8e1f",
+        "Place": "Meeting spot for Duy Khang Limo",
+        "Type": "Logistics",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-23",
+        "Reflection": "Confusing meet up spot; terrible communication from company",
+        "Environment_Obs": "waiting outside in 100 degree heat without much shade for driver",
+        "Photo_Reference": "Sweaty Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.929918054016,
+          20.2075056968481
+        ]
+      },
+      "properties": {
+        "OBJECTID": "49",
+        "GlobalID": "f8bb624f-fda8-429f-b181-b382a12b6991",
+        "Place": "Tam Coc Mt. View Restaurant",
+        "Type": "Culture",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-24",
+        "Reflection": "Beautiful location overlooking the rice fields",
+        "Environment_Obs": "Decent dinner, outdoor seating",
+        "Photo_Reference": "Beautiful sunset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.934371951143,
+          20.2164851569005
+        ]
+      },
+      "properties": {
+        "OBJECTID": "50",
+        "GlobalID": "0b13d5c7-9b01-46b4-b3e7-d54211aa14a7",
+        "Place": "Tam Spa Tac Coc",
+        "Type": "Culture",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-24",
+        "Reflection": "Deep, deep tissue massage",
+        "Environment_Obs": "Modest set up, grest price",
+        "Photo_Reference": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.918240077435,
+          20.2179201582483
+        ]
+      },
+      "properties": {
+        "OBJECTID": "51",
+        "GlobalID": "2b3b7848-14c8-4d54-ab26-9af4fd8c49d0",
+        "Place": "Bich Dong",
+        "Type": "Culture",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-25",
+        "Reflection": "Beautiful hillside temple, open cave",
+        "Environment_Obs": "so hot at Noon, tour redux after scheduling mishap",
+        "Photo_Reference": "Pics of pagoda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.932392158711,
+          20.2285674793065
+        ]
+      },
+      "properties": {
+        "OBJECTID": "52",
+        "GlobalID": "5c1b07eb-52bf-4488-a84f-06d2616b52ba",
+        "Place": "Hang Mua",
+        "Type": "Ecology",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-25",
+        "Reflection": "Old pagoda, cave, and expansive lookout over valleys to East and West, grerat tour with young women from Brighton and couple from Perth",
+        "Environment_Obs": "So hot at 5 pm, but worth the 500+ steps, multiple stops, longest day yet",
+        "Photo_Reference": "View of Valley to West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.908027674004,
+          20.2309352500456
+        ]
+      },
+      "properties": {
+        "OBJECTID": "53",
+        "GlobalID": "baf3c9b7-d7f7-4a2a-a8cb-d44491b41212",
+        "Place": "Voi Restaurant",
+        "Type": "Culture",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-26",
+        "Reflection": "Impromptu stop at family home in country for breakfast",
+        "Environment_Obs": "Best experience in Tam Coc, Ebike ride in morning, excellent banana chocolate crepes and salt coffee",
+        "Photo_Reference": "pics of rice fields, and restaurant grounds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.938214308544,
+          20.216453624593
+        ]
+      },
+      "properties": {
+        "OBJECTID": "54",
+        "GlobalID": "51cf3aa6-a14d-4972-9e02-3dcffd9ddd85",
+        "Place": "Bus station",
+        "Type": "Logistics",
+        "Region": "Tam Coc",
+        "StoryMap_Chapter": 2,
+        "Date": "2026-05-26",
+        "Reflection": "return to Hanoi with different company",
+        "Environment_Obs": "Still hot, but quicker pick up with Daichi travel",
+        "Photo_Reference": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851260450965,
+          22.3389945205817
+        ]
+      },
+      "properties": {
+        "OBJECTID": "55",
+        "GlobalID": "71f65741-3105-4243-9b0a-01099adc5677",
+        "Place": "Van Phong Sapa",
+        "Type": "Logistics",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-27",
+        "Reflection": "Bust stop; met a sweet guide who showed me local eats",
+        "Environment_Obs": "Next door to Night Market",
+        "Photo_Reference": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.853763845827,
+          22.3395079031886
+        ]
+      },
+      "properties": {
+        "OBJECTID": "56",
+        "GlobalID": "5009c0b9-b380-41e2-945b-2e7e61a3141c",
+        "Place": "Banh Cuon Co Tuat",
+        "Type": "Culture",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-27",
+        "Reflection": "1st eats in Sapa with guide",
+        "Environment_Obs": "much cooler finally, delicious buncha chanh",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850276259027,
+          22.3392882600805
+        ]
+      },
+      "properties": {
+        "OBJECTID": "57",
+        "GlobalID": "6975c695-d0c6-440d-80c6-606875c07e68",
+        "Place": "Banh Mi Pham Tang",
+        "Type": "Culture",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-30",
+        "Reflection": "Sweet little sandwich stand with tasty, cheap banh mi",
+        "Environment_Obs": "quick bites before sleeper bus!",
+        "Photo_Reference": "Bakery sotrefront and sandwich cart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840934666455,
+          22.333635600603
+        ]
+      },
+      "properties": {
+        "OBJECTID": "58",
+        "GlobalID": "0ec532c1-0064-4f78-9490-b77d32c1b688",
+        "Place": "Sapa Sisters",
+        "Type": "Unclassified",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-29",
+        "Reflection": "Black H'Mong Female owned and operated Trekking Outfitter",
+        "Environment_Obs": "Muong Hoa Valley",
+        "Photo_Reference": "Little Zo , trail friends, indigo, terraced rice fields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840936446628,
+          22.3336508103274
+        ]
+      },
+      "properties": {
+        "OBJECTID": "59",
+        "GlobalID": "e16ec635-e7bf-410d-a394-c9a0829271a9",
+        "Place": "Sapa Sisters",
+        "Type": "Ecology",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-29",
+        "Reflection": "Black H'Mong Female owned and operated Trekking Outfitter",
+        "Environment_Obs": "Overlooking Huang Ma Valley",
+        "Photo_Reference": "Little Zo , trail friends, indigo, terraced rice fields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854101087488,
+          22.318149603174
+        ]
+      },
+      "properties": {
+        "OBJECTID": "60",
+        "GlobalID": "210a90f9-0448-4683-bb5f-746e24f9285e",
+        "Place": "Huang Moa Valley",
+        "Type": "Ecology",
+        "Region": "Sapa",
+        "StoryMap_Chapter": 3,
+        "Date": "2026-05-29",
+        "Reflection": "Pics of terraced rice fields, indigo",
+        "Environment_Obs": "Wet, slippery, muddy",
+        "Photo_Reference": "Valley and artisan pics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.593103402989,
+          17.5117473842563
+        ]
+      },
+      "properties": {
+        "OBJECTID": "61",
+        "GlobalID": "fc4ff7fa-99d1-48ff-9c1c-3110f0cafaf8",
+        "Place": "Dong Hoi Airport",
+        "Type": "Logistics",
+        "Region": "Phong Nha",
+        "StoryMap_Chapter": 4,
+        "Date": "2026-05-31",
+        "Reflection": "transfer to Phong Nha from Hanoi",
+        "Environment_Obs": "Small beach community",
+        "Photo_Reference": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585894676154,
+          16.4684317369061
+        ]
+      },
+      "properties": {
+        "OBJECTID": "62",
+        "GlobalID": "e9213a6c-4346-4088-bbc0-addefd8741d9",
+        "Place": "Waterfront park",
+        "Type": "Ecology",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-03",
+        "Reflection": "Beautiful riverfront esplanade with much activity",
+        "Environment_Obs": "Wonderful family atmosphere, running, cycling, taking pictures, picnicking",
+        "Photo_Reference": "Waterfront Area, bridges nearby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59556492892,
+          16.4688172219882
+        ]
+      },
+      "properties": {
+        "OBJECTID": "63",
+        "GlobalID": "62d9a9cc-ba86-47a2-97fe-8e72df9f0702",
+        "Place": "Madam Thu 2",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-03",
+        "Reflection": "Vietnamese restaurant catering to tourists with great selection of Hue specific style foods",
+        "Environment_Obs": "LAter evening chill; nice server offered less touristy suggestions",
+        "Photo_Reference": "Front entrance; sample platter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588513599181,
+          16.4730154718222
+        ]
+      },
+      "properties": {
+        "OBJECTID": "64",
+        "GlobalID": "843a4149-2f35-4ec8-a4c0-25cd78f7b886",
+        "Place": "De-Po Cafe",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "Great iced salt coffee, snacks and water too",
+        "Environment_Obs": "Industrial interior, adjacent to Dong Ba Market",
+        "Photo_Reference": "Flowers in market walking to coffee, coffee shop sitting area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.561980497409,
+          16.435409931527
+        ]
+      },
+      "properties": {
+        "OBJECTID": "65",
+        "GlobalID": "12e94b83-ba64-408d-9de3-c7212ff7a949",
+        "Place": "Thuy Xuan Incense Village",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "Thuy Xuan Incense Village is a colorful and unique stop when visiting Hue. The vibrant bundles of incense create beautiful photo opportunities, and you can also learn about the traditional process of making incense by hand.",
+        "Environment_Obs": "Thuy Xuan Incense-Making Village boasts a 700-year history, passed down through generations. According to the village elders, this traditional craft dates back to the reign of King Minh Mang, when artisans were chosen by the royal court to produce incense for imperial rituals. Over time, the people of Thuy Xuan preserved and promoted this craft, making it an integral part of Hue's cultural and spiritual heritage. The village not only provides stable employment for hundreds of families but also s",
+        "Photo_Reference": "One shop, Me rolling incense stick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.56837628505,
+          16.3875548151264
+        ]
+      },
+      "properties": {
+        "OBJECTID": "66",
+        "GlobalID": "ca464af9-9d89-4177-a297-22fb7ef3293b",
+        "Place": "Mausoleum of Emperor Minh Mang",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-04",
+        "Reflection": "Minh Mạng (Hanoi: [mïŋ˧ maːŋ˧˨ʔ]), also known as Minh Mệnh (Hanoi: [mïŋ˧ məjŋ̟˧˨ʔ], chữ Hán: 明 命, lit. 'the bright favour of Heaven';[1] 25 May 1791 – 20 January 1841; born Nguyễn Phúc Đảm, also known as Nguyễn Phúc Kiểu), was the second emperor of the Nguyễn dynasty of Vietnam, reigning from 14 February 1820 until his death, on 20 January 1841",
+        "Environment_Obs": "Minh Mang Tomb was built from 1840 to 1843, with a total area of up to 18 hectares. Its location and its design were directly chosen by its owner, Minh Mang king. This emperor dignified Confucianism, so his tomb’s design proved this.",
+        "Photo_Reference": "Pics of gates, grounds, lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0779902052,
+          16.2393453511688
+        ]
+      },
+      "properties": {
+        "OBJECTID": "67",
+        "GlobalID": "06133d50-ed30-4ee9-8a98-70f271f0a916",
+        "Place": "Viet Pearl",
+        "Type": "Culture",
+        "Region": "Unclassified",
+        "StoryMap_Chapter": 0,
+        "Date": "2026-06-05",
+        "Reflection": "Coffe shop and Jewelry stop at Lagoon on way to Hoi An",
+        "Environment_Obs": "Large bay with aquaculture, oyster farms, pearls; picked up Laura's pearls here",
+        "Photo_Reference": "Lap An Lagoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.642655562375,
+          16.466719720984
+        ]
+      },
+      "properties": {
+        "OBJECTID": "68",
+        "GlobalID": "908d471d-0c3b-445e-807c-e261affee35a",
+        "Place": "Thanh Toan Bridge",
+        "Type": "Culture",
+        "Region": "Hue",
+        "StoryMap_Chapter": 5,
+        "Date": "2026-06-05",
+        "Reflection": "Thanh Toan Bridge was built in the late 18th century during the reign of the Nguyen Dynasty, specifically under the leadership of Lord Nguyen Phuc Chu.",
+        "Environment_Obs": "Calm morning spot on travel from Hue to Hoi An, busy market nearby",
+        "Photo_Reference": "The bridge was originally constructed to connect the villages across the poetic, tranquil canals that once dominated the area. Over the centuries, it has withstood the test of time, becoming a symbol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.262441859549,
+          16.0040642030063
+        ]
+      },
+      "properties": {
+        "OBJECTID": "69",
+        "GlobalID": "6850c8da-6abc-4692-a12c-86221c39d9c8",
+        "Place": "The Marble Mountains",
+        "Type": "Ecology",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-05",
+        "Reflection": "Marble Mountains is a group of five limestone peaks situated seven kilometres from downtown Da Nang. The five karsts (called Ngu Hanh Son in Vietnamese) are named after the five elements: Kim (metal), Thuỷ (water), Mộc (wood), Hoả (fire) and Thổ (earth)",
+        "Environment_Obs": "Today Marble Mountains is home to a network of caves, tunnels, towers, and pagodas built by Mahayana Buddhists and the Nguyen Dynasty Kings. The structures and shrines blend harmoniously with nature",
+        "Photo_Reference": "Hindu, Buddhist Caves and Pagodas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.365407939853,
+          15.8974385087063
+        ]
+      },
+      "properties": {
+        "OBJECTID": "70",
+        "GlobalID": "304e8691-f31d-47fa-b174-b6ba1469eec2",
+        "Place": "Cao Cao Grrasshopper",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-05",
+        "Reflection": "1st stop for dinner; great Cao Lau and Banh Xeo surprise. Family of tailor next door who made my clothes.",
+        "Environment_Obs": "Calm street with restaurants, tailors and shops rigght outside my hotel",
+        "Photo_Reference": "Storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.365276332841,
+          15.8973614641505
+        ]
+      },
+      "properties": {
+        "OBJECTID": "71",
+        "GlobalID": "c01c2da7-fd46-435f-a46c-08a04b134694",
+        "Place": "Bao Ni Cloth Shop",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-06",
+        "Reflection": "Tailro who made my clothes; shrewd business woman, quick turn around",
+        "Environment_Obs": "Family affair all down street, even massage",
+        "Photo_Reference": "Storefront, clothes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.363954540107,
+          15.8959251239859
+        ]
+      },
+      "properties": {
+        "OBJECTID": "72",
+        "GlobalID": "008f445b-6430-40cf-9572-a086788d3edb",
+        "Place": "RAM Spring Roll Restaurant",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-06",
+        "Reflection": "Random lunch spot with best banh mi flavor yet!",
+        "Environment_Obs": "sweet lady in hard times with sick father",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.364807125033,
+          15.8966240342165
+        ]
+      },
+      "properties": {
+        "OBJECTID": "73",
+        "GlobalID": "d7354025-751c-46b2-815b-03dd83f5c86e",
+        "Place": "Bao Han Restaurant",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-07",
+        "Reflection": "Family resturant with good seafood, meal last night in Hoi An",
+        "Environment_Obs": "Chill evening, encountered same Aussie as 1st night who gave recommendation; another fella who loved James Lee Burke",
+        "Photo_Reference": "Storeftront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.365591045147,
+          15.8983410313939
+        ]
+      },
+      "properties": {
+        "OBJECTID": "74",
+        "GlobalID": "fb956de0-e18d-4c9e-bf84-0a997c410efe",
+        "Place": "Tan Loc Seafood",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-06",
+        "Reflection": "Popular seafood restauratn on beach; decent food, poor service",
+        "Environment_Obs": "a little warmer at night, no view though:)",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.325840879932,
+          15.8785699129499
+        ]
+      },
+      "properties": {
+        "OBJECTID": "75",
+        "GlobalID": "2b4e77c3-98d2-47a7-b08b-7e2e03cf9f0b",
+        "Place": "Anh Khoa",
+        "Type": "Logistics",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-06",
+        "Reflection": "Local scooter and E bike rental spot, great drop off/pick up service",
+        "Environment_Obs": "old town rental spot, not many Ebikes or SUPs in Hoi An yet",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.325591253105,
+          15.881720076412
+        ]
+      },
+      "properties": {
+        "OBJECTID": "76",
+        "GlobalID": "ea27cf8d-6904-4531-bd09-f2dd70715f02",
+        "Place": "Thu: Bags, Luggage, Outdoor clothing",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-07",
+        "Reflection": "Ladt minute stop for soft side carry on for all of tailored clothes.",
+        "Environment_Obs": "Last minute stop on last night with a helpful Grab driver who waited for me to shop.",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.36595923285,
+          15.8977320737329
+        ]
+      },
+      "properties": {
+        "OBJECTID": "77",
+        "GlobalID": "5457d5c0-8b97-464d-8cf8-50f9dc460b0a",
+        "Place": "Phong Tai Mini Mart",
+        "Type": "Culture",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-06",
+        "Reflection": "Simple convenience store. Best Salt Coffee in Vietnam",
+        "Environment_Obs": "Best coffee on last day. Wish I noticed earlier.",
+        "Photo_Reference": "No pics available, new spot?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.202658801642,
+          16.0542604478309
+        ]
+      },
+      "properties": {
+        "OBJECTID": "78",
+        "GlobalID": "7102e3f2-c0df-4e3e-94fb-1f610b312df8",
+        "Place": "Da Nang Airport",
+        "Type": "Logistics",
+        "Region": "Hoi An",
+        "StoryMap_Chapter": 6,
+        "Date": "2026-06-08",
+        "Reflection": "Last flight back to Hanoi and then out, beautiful beach morning",
+        "Environment_Obs": "Easy in with reserved driver from night before; skip the Grab fee",
+        "Photo_Reference": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85263903155,
+          21.0364357478641
+        ]
+      },
+      "properties": {
+        "OBJECTID": "79",
+        "GlobalID": "a4725ae2-5f7d-43a3-b901-54314221caf6",
+        "Place": "Cai Mam",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-30",
+        "Reflection": "Restaurant with S. Vietnamese cuisine; sweeter, sour",
+        "Environment_Obs": "good food, obnoxious customers on cell phones",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.852002945944,
+          21.0351002781988
+        ]
+      },
+      "properties": {
+        "OBJECTID": "80",
+        "GlobalID": "e150ed0b-672e-43fa-b915-369fa2db30b1",
+        "Place": "Banh Mi Don Don",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-26",
+        "Reflection": "tiny spot with good BBQ Pork Banh Mi",
+        "Environment_Obs": "Noisy beer street, many barkers, loud pulsing music",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.853738156406,
+          21.0335502892239
+        ]
+      },
+      "properties": {
+        "OBJECTID": "81",
+        "GlobalID": "166fef95-70eb-49b9-9d57-db938f082686",
+        "Place": "Duong Ha Natural Gemstones",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-06-09",
+        "Reflection": "Tiny Jewelry shop where I found mom some jade earrings",
+        "Environment_Obs": "Not a big selection here, but good quality. Not much good jewelry on Hang Bac",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.854292658427,
+          21.0330403265185
+        ]
+      },
+      "properties": {
+        "OBJECTID": "82",
+        "GlobalID": "80d1b9fb-a98e-4ee8-9af9-a4407a6c1337",
+        "Place": "Hanoi Draft Beer",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-26",
+        "Reflection": "Used to be Hanoi Draft Beer and Traditional Food; passed down to son, but new fees on sidewalk tables killed restaurant",
+        "Environment_Obs": "Fantastic draft beer, crisp and light; good talk with travelling british nurses and owner",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85448997956,
+          21.0341648123827
+        ]
+      },
+      "properties": {
+        "OBJECTID": "83",
+        "GlobalID": "f42a585e-098a-49d4-a1bc-0648727757c4",
+        "Place": "Pho Ga Dac Biet",
+        "Type": "Culture",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-06-08",
+        "Reflection": "Best chicken soup ever",
+        "Environment_Obs": "late night meal after nap went late, streets cleared and gentle rain while clsoing the place down, a moment",
+        "Photo_Reference": "storefront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.853269752001,
+          21.0342765091426
+        ]
+      },
+      "properties": {
+        "OBJECTID": "84",
+        "GlobalID": "54e0ae61-c8c3-4df3-ab7d-1988d3ec7f72",
+        "Place": "Red Bean Ma May",
+        "Type": "Reflective",
+        "Region": "Hanoi",
+        "StoryMap_Chapter": 1,
+        "Date": "2026-05-20",
+        "Reflection": "Perhaps best all around restaurant I tried in Vietnam.",
+        "Environment_Obs": "Consistent friendly, efficient service. Excellent preparation and presentation.",
+        "Photo_Reference": "Pic of Bar and Brunch set up"
+      }
+    }
+  ]
+}
