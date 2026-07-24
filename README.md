@@ -18,7 +18,7 @@ This repository contains the data processing layer beneath the public-facing Sto
 
 | File | Description |
 |------|-------------|
-| [`Vietnam_2026_Stops.geojson`](./Vietnam_2026_Stops.geojson) | 71 geo-referenced field points — click to view interactive map |
+| [`Vietnam_2026_Stops.geojson`](./Vietnam_2026_Stops.json) | 71 geo-referenced field points — click to view interactive map |
 | [`vietnam_field_processor.py`](./vietnam_field_processor.py) | Python script: validates, region-tags, and exports field data |
 | [`Vietnam_2026_Field_Report.md`](./Vietnam_2026_Field_Report.md) | Full field report with statistics, schema, and methodology |
 
