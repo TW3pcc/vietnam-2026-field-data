@@ -230,13 +230,11 @@ def build_geojson(records):
             }
         })
 
+    # RFC 7946 GeoJSON: WGS84 is the implied default — no crs block needed.
+    # Omitting crs ensures compatibility with GitHub map renderer, Mapbox, Leaflet.
     return {
         "type": "FeatureCollection",
         "name": "Vietnam_2026_Stops",
-        "crs": {
-            "type": "name",
-            "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}
-        },
         "features": features
     }
 
